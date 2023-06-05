@@ -35,11 +35,4 @@ class CalculadoraNotas:
         self.calcular_notas_menor_valor(valor // 2)
 
 
-# Exemplo de uso da classe
-#calculadora = CalculadoraNotas()
 
-#calculadora.calcular_notas(1, 185)
-#print()
-#calculadora.calcular_notas(2, 185)
-#print()
-#calculadora.calcular_notas(3, 185)
